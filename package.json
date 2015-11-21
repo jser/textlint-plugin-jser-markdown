@@ -1,6 +1,6 @@
 {
   "name": "textlint-plugin-jser-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "textlint plugin for jser.github.io",
   "main": "lib/index.js",
   "files": [
