@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "textlint plugin for jser.github.io",
   "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
   "directories": {
     "test": "test"
   },
